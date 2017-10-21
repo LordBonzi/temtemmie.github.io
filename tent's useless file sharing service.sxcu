@@ -1,0 +1,9 @@
+﻿{
+  "Name": "Tent's useless file service",
+  "DestinationType": "None",
+  "RequestType": "POST",
+  "RequestURL": "https://thimbleprojects.org/t3nt/338915/upload.php",
+  "FileFormName": "ooowo",
+  "ResponseType": "RedirectionURL",
+  "URL": "https://://thimbleprojects.org/t3nt/338915/upload.php"
+}
